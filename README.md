@@ -1,2 +1,2 @@
-# css-style-guide
+# CSS Style Guide
 CSS Style Guide
